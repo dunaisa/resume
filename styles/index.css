@@ -1,0 +1,33 @@
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/user/user.css);
+@import url(../blocks/user/__photo/user__photo.css);
+@import url(../blocks/user/__description/user__description.css);
+
+@import url(../blocks/blockquote/blockquote.css);
+@import url(../blocks/blockquote/__text/blockquote__text.css);
+@import url(../blocks/blockquote/__author/blockquote__author.css);
+
+@import url(../blocks/main/main.css);
+@import url(../blocks/section/section.css);
+@import url(../blocks/section/__title/section__title.css);
+
+@import url(../blocks/interests/__items/interests__items.css);
+@import url(../blocks/interests/__item/interests__item.css);
+@import url(../blocks/interests/__item-link/interests__item-link.css);
+
+@import url(../blocks/about-me/__description/about-me__description.css);
+
+@import url(../blocks/education/__items/education__items.css);
+@import url(../blocks/education/__item/education__item.css);
+
+@import url(../blocks/experience/__text/experience__text.css);
+
+@import url(../blocks/skills/__items/skills__items.css);
+@import url(../blocks/skills/__item/skills__item.css);
+
+@import url(../blocks/portfolio/__items/portfolio__items.css);
+@import url(../blocks/portfolio/__item/portfolio__item.css);
+@import url(../blocks/portfolio/__item-link/portfolio__item-link.css);

@@ -1,0 +1,7 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0 30px;
+  /* border-bottom: 2px solid #998b8b; */
+}
