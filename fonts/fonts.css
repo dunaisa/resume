@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Futura";
+  font-weight: 700;
+  src: url("Futura-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Futura";
+  font-weight: 300;
+  src: url("Futura-Light.ttf");
+}
+
+@font-face {
+  font-family: "Helvetica";
+  font-weight: 700;
+  src: url("helvetica_bold.otf");
+}
+
+@font-face {
+  font-family: "Helvetica";
+  font-weight: 400;
+  src: url("helvetica_regular.otf");
+}
+
+@font-face {
+  font-family: "Helvetica";
+  font-weight: 300;
+  src: url("helvetica_light.otf");
+}

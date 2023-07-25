@@ -1,3 +1,7 @@
 .skills__item {
-  color: #998b8b;
+  /* color: #998b8b; */
+  padding: 15px;
+  border-radius: 20px;
+  background-color: aliceblue;
+  color: #000000;
 }

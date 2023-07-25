@@ -1,6 +1,10 @@
+@import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/page-language/page-language.css);
 
 @import url(../blocks/header/header.css);
+
+@import url(../blocks/gear/gear.css);
 
 @import url(../blocks/user/user.css);
 @import url(../blocks/user/__photo/user__photo.css);
