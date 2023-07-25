@@ -13,4 +13,13 @@
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
+  gap: 80px;
+}
+
+@media screen and (max-width: 767px) {
+  .page {
+    padding-right: 25px;
+    padding-left: 25px;
+    gap: 30px;
+  }
 }

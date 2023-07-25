@@ -1,3 +1,23 @@
 .page-language {
+  padding: 0;
+  margin: 0;
   align-self: self-start;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.page-language__LANG {
+  padding: 0;
+  margin: 0;
+  gap: 20px;
+  color: #998b8b;
+}
+
+@media screen and (max-width: 767px) {
+  .page-language {
+    grid-row: 1;
+    /* margin-bottom: 30px; */
+  }
 }
