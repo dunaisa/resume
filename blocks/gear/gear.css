@@ -1,5 +1,6 @@
 .container {
   height: 100%;
+  width: 400px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
