@@ -1,6 +1,7 @@
 @import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/page-language/page-language.css);
+@import url(../blocks/page-language/__item/page-language__item.css);
 
 @import url(../blocks/header/header.css);
 

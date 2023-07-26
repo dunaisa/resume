@@ -1,0 +1,17 @@
+.page-language__item {
+  cursor: pointer;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  color: #998b8b;
+  padding: 0;
+  margin: 0;
+}
+
+.page-language__item:hover {
+  color: aliceblue;
+}
+
+.page-language__item:active {
+  border-bottom: 1px dashed aliceblue;
+}
