@@ -13,6 +13,7 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+  opacity: 0.2;
 }
 
 .machine {
@@ -164,5 +165,15 @@
 
   to {
     transform: rotate(0deg);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .container {
+    width: 200px;
+    position: absolute;
+    z-index: 1;
+    bottom: -100px;
+    right: 0;
   }
 }

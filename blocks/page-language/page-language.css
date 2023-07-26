@@ -18,6 +18,5 @@
 @media screen and (max-width: 767px) {
   .page-language {
     grid-row: 1;
-    /* margin-bottom: 30px; */
   }
 }

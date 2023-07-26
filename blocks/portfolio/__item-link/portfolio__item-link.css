@@ -1,4 +1,9 @@
 .portfolio__item-link {
   text-decoration: none;
+  margin: 0;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
   color: #998b8b;
 }

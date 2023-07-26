@@ -1,3 +1,6 @@
 .portfolio__items {
   list-style: square;
+  display: block;
+  margin: 0;
+  padding: 15px 0 15px 15px;
 }
