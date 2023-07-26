@@ -1,5 +1,5 @@
 .about-me__description {
-  color: #998b8b;
+  /* color: #998b8b; */
   /* font-family: 'Helvetica, sans serif'; */
   /* font-weight: 200; */
   /* font-size: 18px; */
@@ -12,4 +12,5 @@
   margin: 0;
   width: 100%;
   hyphens: auto;
+  color: #FFFFFF;
 }

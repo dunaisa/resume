@@ -14,6 +14,22 @@
   display: flex;
   flex-direction: column;
   gap: 80px;
+  background-image: url(../../images/bckg.jpg);
+  background-size: 100% 100%;
+
+  position: relative;
+}
+
+.page::before {
+  content: " ";
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-size: 100% 100%;
+}
+
+.blur-container {
+  backdrop-filter: blur(5px);
+  background-color: rgba(15, 16, 16, 0.485);
 }
 
 @media screen and (max-width: 767px) {
