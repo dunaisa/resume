@@ -3,10 +3,10 @@ const contentObj = {
     "ru": "Дунаева Елизавета, 25 лет",
     "en": "Dunaeva Elizabeth, 25 y.o."
   },
-  // "applicant-position": {
-  //   "ru": "Джуниор Фронтенд Разработчик",
-  //   "en": "Junior Frontend developer"
-  // },
+  "applicant-position": {
+    "ru": "Junior Frontend Developer",
+    "en": "Junior Frontend Developer"
+  },
   "about-me-title": {
     "ru": "Обо мне",
     "en": "About me"

@@ -6,12 +6,20 @@
   color: #998b8b;
   padding: 0;
   margin: 0;
+  text-decoration: none;
+}
+
+.page-language__item_type_visited {
+  /* border-bottom: 1px dashed aliceblue; */
+  color: aliceblue;
+  border-bottom: 1px dashed aliceblue;
 }
 
 .page-language__item:hover {
   color: aliceblue;
 }
 
-.page-language__item:active {
+.page-language__item_type_active {
   border-bottom: 1px dashed aliceblue;
+  color: aliceblue;
 }
