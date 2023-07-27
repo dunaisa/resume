@@ -3,6 +3,7 @@
   justify-content: space-between;
   align-items: center;
   gap: 10px;
+  width: 100%;
 }
 
 .footer__icon-image {
@@ -12,10 +13,15 @@
 
 .footer__icon-link {
   font-family: 'Inter', 'Arial', sans-serif;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 700;
   padding: 0;
   margin: 0;
   color: #FFFFFF;
   text-decoration: none;
 }
+
+/* .footer__icon-image_type_big {
+  width: 24px;
+  height: 24px;
+} */
