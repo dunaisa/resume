@@ -1,0 +1,21 @@
+.footer__icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.footer__icon-image {
+  width: 24px;
+  height: 24px;
+}
+
+.footer__icon-link {
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  padding: 0;
+  margin: 0;
+  color: #FFFFFF;
+  text-decoration: none;
+}
