@@ -29,7 +29,7 @@ const contentObj = {
   },
   "interests-fitness": {
     "ru": "Фитнес",
-    "en": "fitness"
+    "en": "Fitness"
   },
   "interests-edu": {
     "ru": "Обучение",
