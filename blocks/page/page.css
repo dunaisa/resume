@@ -9,7 +9,7 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   padding: 25px 35px;
-  background-color: #0f1010;
+  /* background-color: #0f1010; */
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
