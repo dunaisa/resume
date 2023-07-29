@@ -84,7 +84,7 @@ const contentObj = {
     "en": "Quiz (desktop)"
   },
   "meta-network": {
-    "ru": "Квиз по странам Европы",
+    "ru": "Аналог соцсети Meta",
     "en": "Social network (Analogue of Meta)"
   },
   "planner": {
