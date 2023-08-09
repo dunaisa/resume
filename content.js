@@ -4,8 +4,8 @@ const contentObj = {
     "en": "Dunaeva Elizabeth, 25 y.o."
   },
   "applicant-position": {
-    "ru": "Junior Frontend Developer",
-    "en": "Junior Frontend Developer"
+    "ru": "Frontend Developer",
+    "en": "Frontend Developer"
   },
   "about-me-title": {
     "ru": "Обо мне",
@@ -64,8 +64,8 @@ const contentObj = {
     "en": "Experience"
   },
   "experience-info": {
-    "ru": "Коммерческого опыта работы не было",
-    "en": "No commercial experience"
+    "ru": "ООО ИТ-Технологии, Верстальщик (с сентября 2022)",
+    "en": "IT-Technology, html/css/js developer (start 09/2022)"
   },
   "skills-title": {
     "ru": "Навыки",
@@ -100,3 +100,5 @@ const contentObj = {
     "en": " keep in touch keep in touch keep in touch keep in touch keep in touch keep in touch keep in touch keep in touch keep in touch keep in touch keep in touch keep in touch "
   }
 }
+
+export default contentObj

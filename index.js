@@ -1,3 +1,5 @@
+import contentObj from './content.js'
+
 const langList = document.querySelectorAll('.page-language__item')
 
 function getContent() {
@@ -28,6 +30,5 @@ if (!localStorage.getItem('lang')) {
   getContent()
 }
 
-// Check btnlngactive
 
 
