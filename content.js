@@ -87,6 +87,10 @@ const contentObj = {
     "ru": "Аналог соцсети Meta",
     "en": "Social network (Analogue of Meta)"
   },
+  "conference": {
+    "ru": "Лендинг конференции",
+    "en": "Conference Landing"
+  },
   "planner": {
     "ru": "Планнер",
     "en": "Planner"
