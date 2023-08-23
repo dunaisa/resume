@@ -64,8 +64,8 @@ const contentObj = {
     "en": "Experience"
   },
   "experience-info": {
-    "ru": "ООО ИТ-Технологии, Верстальщик (с сентября 2022)",
-    "en": "IT-Technology, html/css/js developer (start 09/2022)"
+    "ru": "Релевантного коммерческого опыта работы не было",
+    "en": "No relevant commercial work experience"
   },
   "skills-title": {
     "ru": "Навыки",
