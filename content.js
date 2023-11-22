@@ -64,8 +64,8 @@ const contentObj = {
     "en": "Experience"
   },
   "experience-info": {
-    "ru": "Релевантного коммерческого опыта работы не было",
-    "en": "No relevant commercial work experience"
+    "ru": "Верстка email рассылок (как самозанятый с 08.2023)",
+    "en": "Layout of emails (from 08.2023)"
   },
   "skills-title": {
     "ru": "Навыки",
@@ -94,6 +94,10 @@ const contentObj = {
   "planner": {
     "ru": "Планнер",
     "en": "Planner"
+  },
+  "catalog": {
+    "ru": "Каталог товаров",
+    "en": "Catalog"
   },
   "part-one": {
     "ru": " Свяжитесь со мной Свяжитесь со мной Свяжитесь со мной Свяжитесь со мной Свяжитесь со мной Свяжитесь со мной Свяжитесь со мной Свяжитесь со мной Свяжитесь со мной",
